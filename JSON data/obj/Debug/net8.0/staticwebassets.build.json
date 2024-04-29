@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zDMY1ANYc5EC0aupyrUqWSTJ+SwJqSjMdKBN/2vqoUY=",
+  "Source": "JSON data",
+  "BasePath": "_content/JSON data",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JSON data\\wwwroot",
+      "Source": "JSON data",
+      "ContentRoot": "D:\\ASP.NET\\JSON data\\JSON data\\wwwroot\\",
+      "BasePath": "_content/JSON data",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

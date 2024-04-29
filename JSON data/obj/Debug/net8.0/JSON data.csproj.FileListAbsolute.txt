@@ -1,0 +1,34 @@
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\appsettings.json
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\JSON data.staticwebassets.runtime.json
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\JSON data.exe
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\JSON data.deps.json
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\JSON data.runtimeconfig.json
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\JSON data.dll
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\JSON data.pdb
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET\JSON data\JSON data\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.csproj.AssemblyReference.cache
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.AssemblyInfoInputs.cache
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.AssemblyInfo.cs
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.csproj.CoreCompileInputs.cache
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.sourcelink.json
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\staticwebassets\msbuild.JSON data.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\staticwebassets\msbuild.build.JSON data.props
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JSON data.props
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JSON data.props
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\scopedcss\bundle\JSON data.styles.css
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.csproj.CopyComplete
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.dll
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\refint\JSON data.dll
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.pdb
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\JSON data.genruntimeconfig.cache
+D:\ASP.NET\JSON data\JSON data\obj\Debug\net8.0\ref\JSON data.dll
